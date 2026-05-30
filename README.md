@@ -42,7 +42,7 @@ Result = 15
 
 ## Author
 
-[Anal Kumar Das]
+Anal Kumar Das
 
 ## Internship
 
