@@ -46,55 +46,8 @@ Anal Kumar Das
 
 ## Internship
 
-CodSoft C++ Programming Internship 
-
-
-# Student Grade Calculator
-
-## Description
-
-This project is a Student Grade Calculator developed in C++ as part of the CodSoft C++ Programming Internship.
-
-The program accepts marks for five subjects, calculates the total marks and percentage, and assigns a grade based on the student's performance.
-
-## Features
-
-* Input marks for 5 subjects
-* Calculate total marks
-* Calculate percentage
-* Generate grades automatically
-* Simple and user-friendly interface
-
-## Grade Criteria
-
-* A+ : 90% and above
-* A : 80% to 89%
-* B : 70% to 79%
-* C : 60% to 69%
-* D : 50% to 59%
-* F : Below 50%
-
-## Technologies Used
-
-* C++
-* Conditional Statements (if-else)
-* Arithmetic Operations
-* User Input and Output
-
-## Sample Output
-
-Enter marks of 5 subjects:
-85 90 78 88 92
-
-Total Marks = 433
-Percentage = 86.6%
-Grade = A
-
-## Internship
-
 CodSoft C++ Programming Internship
 
-## Author
 
-Anal Kumar Das
+
 
