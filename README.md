@@ -48,6 +48,43 @@ Anal Kumar Das
 
 CodSoft C++ Programming Internship
 
+Number Guessing Game (C++)
+Description
+
+This is a simple console-based Number Guessing Game developed in C++. The program generates a random number between 1 and 100 and asks the user to guess it. After each guess, the program provides feedback indicating whether the guess is too high or too low. The game continues until the correct number is guessed.
+
+Features
+Random number generation
+User input handling
+Feedback for high and low guesses
+Continuous gameplay until the correct guess
+Simple and interactive console interface
+Technologies Used
+C++
+Standard Library (iostream, cstdlib, ctime)
+Sample Output
+=== Number Guessing Game ===
+Guess a number between 1 and 100.
+Enter your guess: 50
+Too low! Try again.
+
+Enter your guess: 75
+Too high! Try again.
+
+Enter your guess: 63
+Congratulations! You guessed the correct number: 63
+Learning Outcomes
+Understanding random number generation
+Using loops and conditional statements
+Handling user input and output
+Building interactive console applications
+Author
+
+Anal Kumar Das
+B.Tech CSE Student
+Internship Project – C++ Programming
+
+
 
 
 
