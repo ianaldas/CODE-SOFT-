@@ -188,3 +188,82 @@ Anal Kumar Das
 ## 📜 Internship
 CodSoft C++ Programming Internship
 
+# Task 3 -🎮 Tic-Tac-Toe Game in C++
+
+## 📌 Project Overview
+
+This project is a console-based Tic-Tac-Toe game developed in C++. The game provides an interactive environment where two players compete by placing their symbols (**X** and **O**) on a 3×3 board. The program automatically detects winning combinations, validates moves, and declares the game result.
+
+## ✨ Key Features
+
+✔ Interactive 2-Player Gameplay
+✔ Real-Time Board Updates
+✔ Win and Draw Detection
+✔ Invalid Move Handling
+✔ Clean and User-Friendly Interface
+✔ Modular Function-Based Design
+
+## 🛠 Technologies Used
+
+* C++
+* Object-Oriented & Structured Programming Concepts
+* Standard Template Library (STL)
+
+## 🎯 How the Game Works
+
+1. The game starts with an empty 3×3 board.
+2. Player **X** makes the first move.
+3. Players alternate turns by selecting a position from **1–9**.
+4. The game checks for:
+
+   * Horizontal Wins
+   * Vertical Wins
+   * Diagonal Wins
+5. If all cells are filled without a winner, the game ends in a draw.
+
+## 📷 Sample Gameplay
+
+```text
+ 1 | 2 | 3
+---|---|---
+ 4 | 5 | 6
+---|---|---
+ 7 | 8 | 9
+
+Player X: 1
+Player O: 5
+Player X: 2
+Player O: 8
+Player X: 3
+
+Player X Wins!
+```
+
+## 🚀 Skills Demonstrated
+
+* Arrays and Matrix Manipulation
+* Functions and Modular Programming
+* Conditional Statements
+* Looping Structures
+* Input Validation
+* Game Development Fundamentals
+
+## 💡 Future Enhancements
+
+* Single Player Mode with AI
+* Score Tracking System
+* Graphical User Interface (GUI)
+* Multiplayer Over Network
+
+## 📚 Learning Outcome
+
+Developing this project strengthened my understanding of C++ programming, problem-solving techniques, game logic implementation, and user interaction in console applications.
+
+## 👨‍💻 Author
+
+**Anal Kumar Das**
+B.Tech CSE Student
+
+## Internship
+
+CodSoft C++ Programming internship
